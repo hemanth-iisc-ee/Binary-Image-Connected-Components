@@ -3,4 +3,4 @@ Binary Image Connected Components using Depth First Serach (DFS).
 
 # Example:
 
-![Sample](https://user-images.githubusercontent.com/3444740/57577589-eb6a3280-7497-11e9-8250-e82bb7d3288f.png)
+![Sample](https://user-images.githubusercontent.com/3444740/57577781-22424780-749c-11e9-9d37-39fa6043ef06.png)
